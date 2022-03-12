@@ -1,0 +1,15 @@
+#predicted_digit {
+    font-size: 24px; 
+    position:absolute; 
+    top:60px; 
+    left:360px; 
+    /* width:30px;
+    height:50px; */
+    border:2px solid;
+    background-color: lightgreen; 
+    display: inline;
+}
+
+#status {
+    font-size: 24px;
+}
